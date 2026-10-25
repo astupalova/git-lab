@@ -5,6 +5,6 @@ b = int(input("Введите второе целое число: "))
 
 print(f"Вы ввели числа: {a} и {b}")
 
-result = a + b
+result = a - b
 
-print(f"Сумма чисел: {result}")
+print(f"Разность чисел: {result}")
