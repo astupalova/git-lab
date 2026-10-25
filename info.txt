@@ -1,0 +1,2 @@
+Student: Stupalova A.K.
+Language: Python
